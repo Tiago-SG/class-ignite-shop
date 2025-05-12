@@ -1,0 +1,4 @@
+- quando desenvolvemos algo no server side, o react só exibe a pagina apenas quando tudo estiver carregado 
+
+- Só fazemos chamadas utilizando o getServerSideProps para trazer informações cruciais para estar em tela para indexadores, bots, etc.
+
